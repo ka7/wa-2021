@@ -10,9 +10,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
+                 "name":"start",
+                 "type":"string",
+                 "value":"entry-point"
                 }],
          "type":"tilelayer",
          "visible":true,
