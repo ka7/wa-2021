@@ -225,7 +225,7 @@
                  "value":"https:\/\/www.linuxday.at\/sponsors\/wicom.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":82,
          "x":0,
          "y":0
@@ -240,7 +240,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.triplein.at\/"
+                 "value":"https:\/\/www.triplein.at\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -261,7 +261,7 @@
                  "value":"https:\/\/www.tuxedocomputers.com\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":82,
          "x":0,
          "y":0
