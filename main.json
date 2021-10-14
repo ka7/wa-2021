@@ -206,6 +206,12 @@
          "id":29,
          "name":"web_Infotafel",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/linuxday-at.github.io\/wa-2021\/infotafel.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":82,
@@ -243,7 +249,7 @@
                  "value":"https:\/\/www.triplein.at\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":82,
          "x":0,
          "y":0
