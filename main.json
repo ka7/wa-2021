@@ -213,7 +213,7 @@
                  "value":"https:\/\/linuxday-at.github.io\/wa-2021\/infotafel.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":82,
          "x":0,
          "y":0
@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/getfedora.org\/"
+                 "value":"https:\/\/www.linuxday.at\/sponsors\/fedora.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -318,7 +318,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/linuxmint.com\/"
+                 "value":"https:\/\/www.linuxday.at\/sponsors\/mint.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -354,7 +354,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.debian.org\/"
+                 "value":"https:\/\/www.linuxday.at\/sponsors\/debian.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -375,7 +375,7 @@
                  "value":"https:\/\/endeavouros.com\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":82,
          "x":0,
          "y":0
